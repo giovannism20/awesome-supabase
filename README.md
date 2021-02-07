@@ -27,7 +27,7 @@
 - [supabase-csharp](https://github.com/supabase/supabase-csharp) - Supabase SDK for C# (community)
 
 ### Libraries
-#### This is the rest of libraries that have something in common with Supabase
+##### This is the rest of libraries that have something in common with Supabase
 
 #### Postgrest
 - [postgrest-kt](https://github.com/supabase/postgrest-kt)
