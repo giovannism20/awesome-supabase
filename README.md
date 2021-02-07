@@ -59,4 +59,6 @@
 #### UI Components
 - [next-server-components](https://github.com/supabase/next-server-components)
 
+### Projects using Supabase
+
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it.
