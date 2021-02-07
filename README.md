@@ -28,7 +28,7 @@
 
 - [supabase-js](https://github.com/supabase/supabase-js) - Supabase official SDK for JavaScript/Typescript
 - [supabase-py](https://github.com/supabase/supabase-py) - Supabase official SDK for Python
-- [supabase-dart](https://github.com/supabase/supabase-dart) - Supabase SDK for Dart (yes you can use on Flutter) (community)
+- [supabase-dart](https://github.com/supabase/supabase-dart) - Supabase SDK for Dart (Flutter) (community)
 - [supabase-csharp](https://github.com/supabase/supabase-csharp) - Supabase SDK for C# (community)
 
 ### Libraries
