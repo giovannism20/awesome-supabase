@@ -18,6 +18,10 @@
 
 - [SDKs](#sdks)
 - [Libraries](#libraries)
+  - [Postgrest](#postgrest)
+  - [Realtime](#realtime)
+  - [GoTrue](#gotrue)
+  - [UI Components](#ui-components)
 
 ### SDKs
 
