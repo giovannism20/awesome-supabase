@@ -18,12 +18,17 @@
 
 - [SDKs](#sdks)
 - [Libraries](#libraries)
+  - [Postgrest](#postgrest)
+  - [Realtime](#realtime)
+  - [GoTrue](#gotrue)
+  - [UI Components](#ui-components)
+- [Projects Using Supabase](#projects-using-supabase)
 
 ### SDKs
 
 - [supabase-js](https://github.com/supabase/supabase-js) - Supabase official SDK for JavaScript/Typescript
 - [supabase-py](https://github.com/supabase/supabase-py) - Supabase official SDK for Python
-- [supabase-dart](https://github.com/supabase/supabase-dart) - Supabase SDK for Dart (yes you can use on Flutter) (community)
+- [supabase-dart](https://github.com/supabase/supabase-dart) - Supabase SDK for Dart (Flutter) (community)
 - [supabase-csharp](https://github.com/supabase/supabase-csharp) - Supabase SDK for C# (community)
 
 ### Libraries
@@ -53,3 +58,7 @@
 
 #### UI Components
 - [next-server-components](https://github.com/supabase/next-server-components)
+
+### Projects using Supabase
+
+###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it.
