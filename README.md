@@ -12,7 +12,7 @@
   <br>
   <br>
   <p>
-    <a href="https://en.wikipedia.org/wiki/Node.js">Supabase</a> is an open-source alternative to Firebase
+    <a href="https://app.supabase.io/">Supabase</a> is an open-source alternative to Firebase
   </p>
 </div>
 
