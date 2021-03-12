@@ -3,9 +3,6 @@
     <img width="300px" src="https://gitcdn.xyz/repo/supabase/supabase/master/web/static/supabase-light.svg" alt="Awesome Supabase">
   </div>
   <br>
-  <p>
-    Awesome Supabase
-  </p>
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
   </a>
@@ -16,49 +13,55 @@
   </p>
 </div>
 
+# Awesome Supabase
+
+> A curated list of awesome things related to Supabase.
+
+## Contents
+
 - [SDKs](#sdks)
-- [Libraries](#libraries)
-  - [Postgrest](#postgrest)
-  - [Realtime](#realtime)
-  - [GoTrue](#gotrue)
-  - [UI Components](#ui-components)
+- [Postgrest](#postgrest)
+- [Realtime](#realtime)
+- [GoTrue](#gotrue)
+- [UI Components](#ui-components)
 - [Projects Using Supabase](#projects-using-supabase)
 
-### SDKs
+## SDKs
 
-- [supabase-js](https://github.com/supabase/supabase-js) - Supabase official SDK for JavaScript/Typescript
-- [supabase-py](https://github.com/supabase/supabase-py) - Supabase official SDK for Python
-- [supabase-dart](https://github.com/supabase/supabase-dart) - Supabase SDK for Dart (Flutter) (community)
-- [supabase-csharp](https://github.com/supabase/supabase-csharp) - Supabase SDK for C# (community)
+- [supabase-js](https://github.com/supabase/supabase-js) - Supabase official SDK for JavaScript/Typescript.
+- [supabase-py](https://github.com/supabase/supabase-py) - Supabase official SDK for Python.
+- [supabase-dart](https://github.com/supabase/supabase-dart) - Supabase SDK for Dart (Flutter) (community).
+- [supabase-csharp](https://github.com/supabase/supabase-csharp) - Supabase SDK for C# (community).
 
-### Libraries
-##### This is the rest of libraries that have something in common with Supabase
+## Postgrest
 
-#### Postgrest
-- [postgrest-kt](https://github.com/supabase/postgrest-kt)
-- [postgrest-dart](https://github.com/supabase/postgrest-dart)
-- [postgrest-csharp](https://github.com/supabase/postgrest-csharp)
-- [postgrest-py](https://github.com/supabase/postgrest-py)
-- [postgrest-rs](https://github.com/supabase/postgrest-rs)
-- [postgrest-swift](https://github.com/supabase/postgrest-swift)
-- [postgrest-js](https://github.com/supabase/postgrest-js)
+- [postgrest-kt](https://github.com/supabase/postgrest-kt) - Postgrest library for  Kotlin.
+- [postgrest-dart](https://github.com/supabase/postgrest-dart) - Postgrest library for Dart.
+- [postgrest-csharp](https://github.com/supabase/postgrest-csharp) - Postgrest library for C#.
+- [postgrest-py](https://github.com/supabase/postgrest-py) - Postgrest library for Python.
+- [postgrest-rs](https://github.com/supabase/postgrest-rs) - Postgrest library for Rust.
+- [postgrest-swift](https://github.com/supabase/postgrest-swift) - Postgrest library for Swift.
+- [postgrest-js](https://github.com/supabase/postgrest-js) - Postgrest library for JavaScript.
 
-#### Realtime
-- [realtime-csharp](https://github.com/supabase/realtime-csharp)
-- [reatime-dart](https://github.com/supabase/realtime-dart)
-- [realtime-js](https://github.com/supabase/realtime-js)
-- [realtime-py](https://github.com/supabase/realtime-py)
+## Realtime
 
-#### Gotrue
-- [gotrue-csharp](https://github.com/supabase/gotrue-csharp)
-- [gotrue-js](https://github.com/supabase/gotrue-js)
-- [gotrue-dart](https://github.com/supabase/gotrue-dart)
-- [gotrue-java](https://github.com/supabase/gotrue-java)
-- [gotrue-kt](https://github.com/supabase/gotrue-kt)
+- [realtime-csharp](https://github.com/supabase/realtime-csharp) - Realtime library for C#.
+- [reatime-dart](https://github.com/supabase/realtime-dart) - Realtime library for Dart.
+- [realtime-js](https://github.com/supabase/realtime-js) - Realtime library for JavaScript.
+- [realtime-py](https://github.com/supabase/realtime-py) - Realtime library for Python.
 
-#### UI Components
-- [next-server-components](https://github.com/supabase/next-server-components)
+## GoTrue
 
-### Projects using Supabase
+- [gotrue-csharp](https://github.com/supabase/gotrue-csharp) - GoTrue for C#.
+- [gotrue-js](https://github.com/supabase/gotrue-js) - GoTrue for JavaScript.
+- [gotrue-dart](https://github.com/supabase/gotrue-dart) - GoTrue for Dart.
+- [gotrue-java](https://github.com/supabase/gotrue-java) - GoTrue for Java.
+- [gotrue-kt](https://github.com/supabase/gotrue-kt) - GoTrue for Kotlin.
 
-###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it.
+## UI Components
+
+- [next-server-components](https://github.com/supabase/next-server-components) - Next Server Components.
+
+## Projects Using Supabase
+
+###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
