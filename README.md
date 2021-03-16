@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img width="300px" src="https://gitcdn.xyz/repo/supabase/supabase/master/web/static/supabase-light.svg" alt="Awesome Supabase">
+    <img width="300px" src="https://github.com/Mzaien/awesome-supabase-1/blob/main/Supabase.png" alt="Awesome Supabase">
   </div>
   <br>
   <a href="https://awesome.re">
