@@ -17,6 +17,8 @@
 
 > A curated list of awesome things related to Supabase.
 
+Supabase is an open source alternative to firebase helping in the process of developing a customizable backend for your application. You can start a project with a database, authentication and other things quickly.
+
 ## Contents
 
 - [SDKs](#sdks)
