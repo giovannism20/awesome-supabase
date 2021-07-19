@@ -64,6 +64,7 @@ Supabase is an open source alternative to firebase helping in the process of dev
 
 - [next-server-components](https://github.com/supabase/next-server-components) - Next Server Components.
 
-## Projects Using Supabase
+## Blogs
+- [Introduction to supabase and Auth](https://aalam.in/blog/supabase-auth-intro-setup-next)
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
