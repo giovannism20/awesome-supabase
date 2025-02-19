@@ -68,4 +68,7 @@ Supabase is an open source alternative to firebase helping in the process of dev
 ## Blogs
 - [Introduction to supabase and Auth](https://aalam.in/blog/supabase-auth-intro-setup-next)
 
+## Tools and Extensions
+- [Edge Worker](https://pgflow.dev) - Library that Supercharges Background Tasks and Supabase Queues
+
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
