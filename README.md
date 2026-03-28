@@ -71,5 +71,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 ## Tools and Extensions
 - [Edge Worker](https://pgflow.dev) - Library that Supercharges Background Tasks and Supabase Queues
 - [supabase-plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects, going beyond the possibilities of the regular Supabase CLI.
+- [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) - Generate a complete vertical SaaS with Supabase backend for any industry in one command. Next.js 14 + Supabase. Industry-specific data models, SQL migrations with RLS.
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
