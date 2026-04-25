@@ -69,6 +69,8 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [Introduction to supabase and Auth](https://aalam.in/blog/supabase-auth-intro-setup-next)
 
 ## Tools and Extensions
+
+- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Free, open-source LMS built on Supabase (Auth, Database with RLS, Storage). Designed for Bible schools and nonprofits.
 - [Edge Worker](https://pgflow.dev) - Library that Supercharges Background Tasks and Supabase Queues
 - [supabase-plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects, going beyond the possibilities of the regular Supabase CLI.
 
