@@ -69,6 +69,7 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [Introduction to supabase and Auth](https://aalam.in/blog/supabase-auth-intro-setup-next)
 
 ## Tools and Extensions
+- [GuardLayer](https://www.guardlayer.io) - Free static security scanner for Next.js + Supabase apps; flags exposed keys, missing/disabled RLS, over-permissive policies, and unprotected routes on every push, with the exact fix.
 
 - [backupdrill](https://github.com/backupdrill/cli) - Back up the database and Storage files to your own bucket, with scheduled restore-verification drills (MIT CLI).
 - [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Free, open-source LMS built on Supabase (Auth, Database with RLS, Storage). Designed for Bible schools and nonprofits.
