@@ -76,5 +76,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [Edge Worker](https://pgflow.dev) - Library that Supercharges Background Tasks and Supabase Queues
 - [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - Open-source Next.js 15 SaaS starter kit with self-contained auth (Google/GitHub OAuth + email/password), Stripe subscriptions, teams, and Postgres on Supabase (Drizzle ORM).
 - [supabase-plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects, going beyond the possibilities of the regular Supabase CLI.
+- [Nemesis Shield](https://github.com/eobi/nemesis_shield_sdks) - Wrap a Supabase Edge Function in a positive-security WAF with one line (withShield from jsr:@nemesis-shield/edge); it learns each function's normal requests and blocks the rest. Open-source SDKs (MIT), free tier.
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
