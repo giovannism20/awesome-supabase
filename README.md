@@ -83,5 +83,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [Nemesis Shield](https://github.com/eobi/nemesis_shield_sdks) - Wrap a Supabase Edge Function in a positive-security WAF with one line (withShield from jsr:@nemesis-shield/edge); it learns each function's normal requests and blocks the rest. Open-source SDKs (MIT), free tier.
 
 - [supabase-rls-leak-demo](https://github.com/cekuu35/supabase-rls-leak-demo) - Minimal reproducible Supabase/Postgres RLS isolation failure that runs entirely in PGlite (no cloud project or credentials), plus a free read-only audit SQL that flags RLS-disabled tables, permissive USING(true) policies, and cross-tenant read/write leaks (MIT).
+- [1bench](https://1bench.dev/supabase) - Paid desktop client for Supabase Postgres with pgvector support.
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
