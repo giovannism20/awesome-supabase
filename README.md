@@ -85,4 +85,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [supabase-rls-leak-demo](https://github.com/cekuu35/supabase-rls-leak-demo) - Minimal reproducible Supabase/Postgres RLS isolation failure that runs entirely in PGlite (no cloud project or credentials), plus a free read-only audit SQL that flags RLS-disabled tables, permissive USING(true) policies, and cross-tenant read/write leaks (MIT).
 - [1bench](https://1bench.dev/supabase) - Paid desktop client for Supabase Postgres with pgvector support.
 
+- [HTMLRadar](https://github.com/htmlradar/htmlradar) - Open-source DocSend for HTML: turn an HTML file into a tracked share link with per-viewer read analytics. Next.js + Cloudflare Workers + Supabase.
+
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
