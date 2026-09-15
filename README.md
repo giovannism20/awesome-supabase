@@ -86,5 +86,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [1bench](https://1bench.dev/supabase) - Paid desktop client for Supabase Postgres with pgvector support.
 
 - [HTMLRadar](https://github.com/htmlradar/htmlradar) - Open-source DocSend for HTML: turn an HTML file into a tracked share link with per-viewer read analytics. Next.js + Cloudflare Workers + Supabase.
+- [RowShield](https://rowshield.dev/) - Checks a deployed Supabase app from the outside for tables and storage that anonymous callers can read, with a free read-only probe; paid plans add scheduled RLS policy and drift checks.
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
