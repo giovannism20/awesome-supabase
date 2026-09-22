@@ -87,5 +87,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 
 - [HTMLRadar](https://github.com/htmlradar/htmlradar) - Open-source DocSend for HTML: turn an HTML file into a tracked share link with per-viewer read analytics. Next.js + Cloudflare Workers + Supabase.
 - [RowShield](https://rowshield.dev/) - Checks a deployed Supabase app from the outside for tables and storage that anonymous callers can read, with a free read-only probe; paid plans add scheduled RLS policy and drift checks.
+- [Ekwo OS](https://github.com/Ekwo-ai/ekwo-os) - Open-source double-entry accounting core as Postgres migrations: RLS on every table, versioned country packs, import of existing books, a CLI installer and an MCP server (AGPL-3.0; format libraries MIT).
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
