@@ -91,5 +91,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [supabase-security](https://github.com/Perufitlife/supabase-security-skill) - Lints `supabase/migrations` with no credentials for the Oct 30, 2026 Data API grants change: tables and views with no GRANT, grants to anon on tables with RLS off, blanket `on all tables` grants, SECURITY DEFINER functions callable through PUBLIC. Proposes least-privilege grants that mirror your policies; CLI and GitHub Action (MIT).
 - [Supabase RLS self-audit](https://github.com/cryptoscooter99/supabase-rls-audit) - One read-only SQL query for the SQL Editor that flags tables with RLS off, `USING (true)` policies, policies not tied to the caller, views without `security_invoker`, API-callable `SECURITY DEFINER` functions and open storage policies, with the fix for each (MIT).
 - [AltoRank](https://github.com/AltoRank/altorank) - Open-source SEO content software built on Next.js + Supabase: readiness checks, keyword research and drafts into a review queue, with a hosted MCP server (AGPL-3.0).
+- [instancez](https://github.com/instancez/instancez) - Backend for Developers and Agents - single-binary, runs anywhere.
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
