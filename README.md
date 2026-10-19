@@ -71,6 +71,7 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [Supabase service_role key: safe usage and exposure checklist](https://fixrls.dev/supabase-service-role-key) - Checklist for keeping the service_role key off the client and rotating it after exposure.
 - [Supabase anon key exposed: safe or dangerous?](https://fixrls.dev/supabase-anon-key-exposed) - Explains when a public anon key is expected and when missing RLS makes it dangerous.
 - [Supabase MCP safe setup for Cursor and Claude Code](https://fixrls.dev/supabase-mcp-safe-setup) - Guardrails for connecting AI coding tools to Supabase without leaking secret keys.
+- [Supabase Oct 30 grants change: fix 42501 on new tables](https://fixloop.dev/guides/supabase-oct-30-grants-change) - Why new public tables return permission denied (42501) after Oct 30, 2026 even with RLS on, and the GRANT SQL to fix it.
 
 ## Tools and Extensions
 - [GuardLayer](https://www.guardlayer.io) - Free static security scanner for Next.js + Supabase apps; flags exposed keys, missing/disabled RLS, over-permissive policies, and unprotected routes on every push, with the exact fix.
