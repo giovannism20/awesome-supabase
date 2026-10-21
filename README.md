@@ -97,5 +97,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [RLS Radar](https://rlsradar.vercel.app/) - Free, read-only check of a deployed Supabase app from the outside: detects keys shipped in the frontend bundle, flags exposed `service_role`/secret keys, and lists tables and storage buckets that answer to the anon key (counts only, no rows stored). Requires an ownership confirmation.
 - [SupaBaseFolder](https://github.com/zacfink/SupaBaseFolder) - macOS menu bar app that mirrors every table into a folder as live .xlsx/.json files and syncs edits both ways over Realtime, with an offline queue, bulk-delete confirmation and a restore log (MIT).
 - [instancez](https://github.com/instancez/instancez) - Backend for Developers and Agents - single-binary, runs anywhere.
+- [supabase-email59-send-hook](https://github.com/icedsg/supabase-email59-send-hook) - Send Email Hook as an Edge Function: sends sign-up, magic link, password reset, invite and email change emails through the email59 API, with no SMTP or domain setup; checks the hook signature and has no dependencies (MIT).
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
