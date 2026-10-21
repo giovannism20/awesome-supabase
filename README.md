@@ -99,5 +99,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [SupaBaseFolder](https://github.com/zacfink/SupaBaseFolder) - macOS menu bar app that mirrors every table into a folder as live .xlsx/.json files and syncs edits both ways over Realtime, with an offline queue, bulk-delete confirmation and a restore log (MIT).
 - [instancez](https://github.com/instancez/instancez) - Backend for Developers and Agents - single-binary, runs anywhere.
 - [supabase-email59-send-hook](https://github.com/icedsg/supabase-email59-send-hook) - Send Email Hook as an Edge Function: sends sign-up, magic link, password reset, invite and email change emails through the email59 API, with no SMTP or domain setup; checks the hook signature and has no dependencies (MIT).
+- [VibeRaven](https://github.com/ohad6k/VibeRaven) - Open-source CLI that checks AI-built Supabase + Vercel apps for launch gaps before you ship: tables without RLS, `USING (true)` policies, service_role keys in client code, `SECURITY DEFINER` functions the anon key can call. Reads your repo and migrations locally with `npx -y viberaven check`; a repo check, not a live database test (MIT).
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
