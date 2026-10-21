@@ -95,5 +95,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [Next.js Supabase Stripe Security Checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) - Free CLI and GitHub Action that scans Next.js + Supabase + Stripe repos for common mistakes: service-role keys in client code, tables without RLS, write policies with `using (true)` and unsafe Stripe webhooks; 24 checks, runs locally (MIT).
 - [RLS Radar](https://rlsradar.vercel.app/) - Free, read-only check of a deployed Supabase app from the outside: detects keys shipped in the frontend bundle, flags exposed `service_role`/secret keys, and lists tables and storage buckets that answer to the anon key (counts only, no rows stored). Requires an ownership confirmation.
 - [SupaBaseFolder](https://github.com/zacfink/SupaBaseFolder) - macOS menu bar app that mirrors every table into a folder as live .xlsx/.json files and syncs edits both ways over Realtime, with an offline queue, bulk-delete confirmation and a restore log (MIT).
+- [instancez](https://github.com/instancez/instancez) - Backend for Developers and Agents - single-binary, runs anywhere.
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
