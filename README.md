@@ -73,6 +73,7 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [Supabase MCP safe setup for Cursor and Claude Code](https://fixrls.dev/supabase-mcp-safe-setup) - Guardrails for connecting AI coding tools to Supabase without leaking secret keys.
 - [Supabase Oct 30 grants change: fix 42501 on new tables](https://fixloop.dev/guides/supabase-oct-30-grants-change) - Why new public tables return permission denied (42501) after Oct 30, 2026 even with RLS on, and the GRANT SQL to fix it.
 - [Supabase growth teardown: 111,751 stars and 19.9M weekly downloads, what the numbers actually measure](https://javis.im/analysis/supabase/index-en) - Evidence-cited analysis of Supabase's growth metrics with sources marked as fact, inference or opinion.
+- [Security checklist for Lovable, Bolt and Cursor apps](https://project-feldspar.com/guides/ai-built-app-security-checklist.html) - Eight checks to run before real users join an app built with Lovable, Bolt or Cursor on Supabase: RLS, keys, storage, ownership checks and secrets.
 
 ## Tools and Extensions
 - [GuardLayer](https://www.guardlayer.io) - Free static security scanner for Next.js + Supabase apps; flags exposed keys, missing/disabled RLS, over-permissive policies, and unprotected routes on every push, with the exact fix.
