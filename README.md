@@ -84,6 +84,7 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - Open-source Next.js 15 SaaS starter kit with self-contained auth (Google/GitHub OAuth + email/password), Stripe subscriptions, teams, and Postgres on Supabase (Drizzle ORM).
 - [supabase-plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects, going beyond the possibilities of the regular Supabase CLI.
 - [Nemesis Shield](https://github.com/eobi/nemesis_shield_sdks) - Wrap a Supabase Edge Function in a positive-security WAF with one line (withShield from jsr:@nemesis-shield/edge); it learns each function's normal requests and blocks the rest. Open-source SDKs (MIT), free tier.
+- [Seatbelt Lite](https://github.com/clemcube/seatbelt-lite) - Claude Code plugin that refuses views in `public` without `security_invoker` before the SQL is sent through MCP, so an AI agent can't expose rows to the anon key (MIT).
 
 - [supabase-rls-leak-demo](https://github.com/cekuu35/supabase-rls-leak-demo) - Minimal reproducible Supabase/Postgres RLS isolation failure that runs entirely in PGlite (no cloud project or credentials), plus a free read-only audit SQL that flags RLS-disabled tables, permissive USING(true) policies, and cross-tenant read/write leaks (MIT).
 - [1bench](https://1bench.dev/supabase) - Paid desktop client for Supabase Postgres with pgvector support.
