@@ -105,5 +105,6 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [validra-check](https://github.com/Teo102/validra-check) - Fast, read-only CLI scanner to find exposed Supabase tables, missing RLS policies, and leaked secret keys in web apps.
 - [SniffPup](https://sniffpup.com/) - Free passive outside scan of a deployed Supabase web app: flags service_role/secret keys shipped in the frontend and tests whether the public anon key can read your tables, plus public `.env`/`.git` files and missing security headers. Website and GitHub Action ([sniffpup/scan-action](https://github.com/sniffpup/scan-action), MIT).
 - [Tuvio](https://tuvio.dev/) - Flags row level security policies that leak data in your Supabase SQL migrations (open to anyone, open to any logged-in user, RLS off, trusting user_metadata, SECURITY DEFINER without search_path), plus keys in git history and the live site. Free scans.
+- [SpacePost](https://docs.spacepost.dev/tools/smtp/supabase/) - Resend-compatible transactional email API on Amazon SES (EU company), SMTP relay + MCP server. Step-by-step custom SMTP setup for Supabase Auth emails, tested on a hosted project.
 
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
