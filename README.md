@@ -75,6 +75,7 @@ Supabase is an open source alternative to firebase helping in the process of dev
 - [Supabase growth teardown: 111,751 stars and 19.9M weekly downloads, what the numbers actually measure](https://javis.im/analysis/supabase/index-en) - Evidence-cited analysis of Supabase's growth metrics with sources marked as fact, inference or opinion.
 - [Security checklist for Lovable, Bolt and Cursor apps](https://project-feldspar.com/guides/ai-built-app-security-checklist.html) - Eight checks to run before real users join an app built with Lovable, Bolt or Cursor on Supabase: RLS, keys, storage, ownership checks and secrets.
 - [Supabase "permission denied for table" (error 42501): why new tables break and the fix](https://buildwiththis.com/free/supabase-permission-denied-42501/) - Request-by-request test of the Oct 30, 2026 grants change on a Supabase test project, including recreated tables and new views, with the per-table GRANT, RLS and policy fix.
+- [Is Supabase secure? What it covers and what you must](https://madsalt.tech/blog/is-supabase-secure/) - What the platform secures (SOC 2 Type 2, ISO 27001, encryption) and what stays your job: RLS, keys and auth settings.
 
 ## Tools and Extensions
 - [GuardLayer](https://www.guardlayer.io) - Free static security scanner for Next.js + Supabase apps; flags exposed keys, missing/disabled RLS, over-permissive policies, and unprotected routes on every push, with the exact fix.
